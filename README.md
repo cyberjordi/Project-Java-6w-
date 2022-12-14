@@ -1,14 +1,14 @@
 # Project-Java-6w-
 
-Introduction
-Banking API
+# Introduction
+## Banking API
 Welcome to the banking API! This API allows developers to access financial data and perform transactions on behalf of users. With this API, you can build applications that can retrieve account information, make payments, and more.
 
-Instructions
+## Instructions
 Run the programme in Spring and follow the instructions.
 
 
-Main technologies used
+## Main technologies used
 Java
 Unit testing
 Spring
@@ -19,8 +19,8 @@ Class diagram
 image
 
 
-Required Methods
+## Required Methods
 Add a Savings Account: This action is responsible of adding a SavingsAccount. 
 
-Endpoints
+## Endpoints
 /accounts/add 
